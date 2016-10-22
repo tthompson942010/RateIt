@@ -18,12 +18,23 @@
   },
   "homepage": "https://github.com/tthompson942010/RateIt#readme",
   "dependencies": {
+    "bcryptjs": "^0.7.12",
     "body-parser": "^1.15.2",
+    "cookie-parser": "^1.3.3",
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.6",
+    "express-session": "^1.8.2",
+    "method-override": "^2.2.0",
+    "morgan": "^1.7.0",
     "mysql": "^2.11.1",
+    "orchestrate": "^0.3.11",
+    "passport": "^0.2.1",
+    "passport-facebook": "^1.0.3",
+    "passport-google": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.2",
     "path": "^0.12.7",
+    "q": "^1.0.1",
     "sequelize": "^3.24.4"
   }
 }
